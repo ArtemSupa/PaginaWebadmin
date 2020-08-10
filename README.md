@@ -1,2 +1,2 @@
 # PaginaWebadmin
-Pagina Web PHP, Oracle 11g, Html, Css y Bootstrap
+Pagina Web PHP, Mysql, Html, Css y Bootstrap

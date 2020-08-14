@@ -9,7 +9,14 @@
     <title>Login</title>
 </head>
 <body>
-    
+    <div id="Login">
+        <div class="container">
+            <div class ="row">
+                <div class="col-md-6">
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     <script src="Jquery\jquery-3.5.1.min.js"></script>

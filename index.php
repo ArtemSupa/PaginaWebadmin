@@ -13,6 +13,7 @@
         <div class="container">
             <div class ="row">
                 <div class="col-md-6">
+                    <h1>wena los culiaos</h1>
                 </div>
             </div>
         </div>
